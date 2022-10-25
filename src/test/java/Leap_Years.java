@@ -4,6 +4,8 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class Leap_Years {
 
+    /* test */
+
     @Test
     public void Checks_If_4000_Is_A_Leap_Year()
     {
