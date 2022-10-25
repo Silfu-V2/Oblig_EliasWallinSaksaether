@@ -17,7 +17,7 @@ public class Test_Leap_Years {
         assertEquals(false, Checker.isLeapYear(3993));
     }
     @Test
-    public void Checks_If_3991_Is_Not_A_Leap_Year()
+    public void Test_Checks_If_3991_Is_Not_A_Leap_Year()
     {
         assertEquals(false, Checker.isLeapYear(3991));
     }
