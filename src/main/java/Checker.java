@@ -14,6 +14,8 @@ public class Checker {
         return result;
     }
 
+    /* test */
+
     public static boolean isDivisibleBy4ButNot100(int year) {
         boolean result = false;
         if (year % 4 == 0 && 100 != 0) {
