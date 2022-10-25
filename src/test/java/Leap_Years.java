@@ -67,10 +67,5 @@ public class Leap_Years {
     {
         assertEquals(false, Checker.divisibleBy100ButNot400(3991));
     }
-    @Test
-    public void Checks_If_4001_Is_Divisible_By_100_But_Not_400()
-    {
-        assertEquals(false, Checker.divisibleBy100ButNot400(3991));
-    }
 
 }
