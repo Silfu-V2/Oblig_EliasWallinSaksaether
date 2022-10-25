@@ -16,4 +16,4 @@ Even after all of this it still didn't detect the tests.
 So I looked around to eventually find the canvas announcement regarding maven-surefire-plugin.
 After I implemented this (and the advice regarding only having one dependency to be safe) the workflow detected my 12
 tests and said that 11 of them worked.
-I then quickly fixed the 1 rogue method that was wrong.
+I then quickly fixed the 1 rogue method that was wrong. 
